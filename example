@@ -1,7 +1,0 @@
-SEARCH_API_KEY=your_api_key_here
-MYEMAIL=your_email_here
-PASSWORD=your_app_password_here
-SHEETY_TOKEN=Authorization:your_bearer_token_here
-SPREADSHEET=your_sheet_ID_here
-SHEETY_ENDPOINT_PRICE_HISTORY=your_api_key_here
-SHEETY_ENDPOINT_USERS=your_api_key_here
