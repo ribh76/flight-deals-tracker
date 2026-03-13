@@ -1,0 +1,56 @@
+[
+    {
+        "origin": "SFO",
+        "destination": "LHR",
+        "threshold": 650,
+        "found_price": 474.0,
+        "is_deal": true,
+        "deal_score": 0.27,
+        "timestamp": 1773358378.03695
+    },
+    {
+        "origin": "SFO",
+        "destination": "DXB",
+        "threshold": 850,
+        "found_price": 398.0,
+        "is_deal": true,
+        "deal_score": 0.53,
+        "timestamp": 1773358381.221676
+    },
+    {
+        "origin": "SFO",
+        "destination": "CDG",
+        "threshold": 650,
+        "found_price": 514.0,
+        "is_deal": true,
+        "deal_score": 0.21,
+        "timestamp": 1773358383.6660092
+    },
+    {
+        "origin": "SFO",
+        "destination": "FCO",
+        "threshold": 750,
+        "found_price": 490.0,
+        "is_deal": true,
+        "deal_score": 0.35,
+        "timestamp": 1773358387.182213
+    },
+    {
+        "origin": "SFO",
+        "destination": "JFK",
+        "threshold": 300,
+        "found_price": 214.0,
+        "is_deal": true,
+        "deal_score": 0.29,
+        "timestamp": 1773358389.583838
+    },
+    {
+        "origin": "SFO",
+        "destination": "NRT",
+        "threshold": 900,
+        "found_price": 384.0,
+        "is_deal": true,
+        "deal_score": 0.57,
+        "timestamp": 1773358391.904237
+    }
+]
