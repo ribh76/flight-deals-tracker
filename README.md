@@ -3,18 +3,18 @@ Flight Deals Tracker and Flight Club
 - This project was built as part of my backend and API development practice, focusing on working with third-party APIs, environment variables, and modular Python architecture.
 
 Features: 
-•	Fetch flight pricing data from external APIs
-•	Track destination deals
-•	Store deal data locally using JSON
-•	Send notifications when price thresholds are triggered
-•	Environment variable management using .env
+- Fetch flight pricing data from external APIs
+- Track destination deals
+- Store deal data locally using JSON
+- Send notifications when price thresholds are triggered
+- Environment variable management using .env
 
 Tech Stack: 
-•	Python
-•	Requests
-•	REST APIs
-•	JSON data storage
-•	python-dotenv
+- Python
+- Requests
+- REST APIs
+- JSON data storage
+- python-dotenv
 
 Setup: 
 1. clone this repository: git clone https://github.com/ribh76/flight-deals-tracker.git
